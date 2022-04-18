@@ -1,0 +1,15 @@
+.container{
+    background-color: rgb(187, 142, 87);
+    text-align: center;
+}
+ol{
+     list-style: none;
+}
+li{
+    margin-top:5px;
+    margin-right:50px ;
+    padding:10px;
+    background-color: rgb(209, 194, 171);
+    border:6px solid rgb(129, 121, 64);
+    border-radius:30px;
+}
